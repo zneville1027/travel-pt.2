@@ -1,0 +1,141 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    color: #0E0E0E;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    background-image: url(aruba_background.jpg);
+    background-size: cover;
+    text-align: center;
+ 
+}
+#container{
+	width: 950px;
+	height: 2500px;
+	background-color: white;
+	margin: auto;
+	text-align: center;
+}
+#container nav li {
+    display: block;
+    list-style-type: none;
+    float: left;
+    width: auto;
+    margin-right: 56px;
+    font-family: default;
+    margin-left: 59px;
+    text-decoration: underline;
+ }
+nav a:link {
+    color: red;
+    text-decoration: none;
+	padding: 10px;
+}
+nav a:visited {
+    text-decoration: none;
+    color: dark darkred;
+}
+nav a:hover {
+    text-decoration: none;
+    color: #ffffff;
+	background-color: darkred;
+	padding: 15px;
+	border-radius: 2px;
+	border-width: 3px;
+}
+nav a:active {
+    text-decoration: none;
+    color: pink;
+    font-family: default;
+    text-align: center;
+}
+aside{
+	  width: 200px;
+    height: 2186px;
+    float: left;
+    background-color: pink;
+	margin-top: 10px;
+	margin-right:15px;
+}
+h1{
+	color: darkred;
+	flot: right;
+	text-align: center;
+}
+h2{color:red;}
+
+article{
+	text-align: center;
+	color: #8B0000;
+}
+img{
+	float: left;
+	margin-left: 6px;
+	margin-right: 16px;
+}
+header{
+	width: 950px;
+	height: 250px;
+	background-position: 51% 45%;
+	background-image: url("aruba_header.jpg");
+	color: #E3E2E3;
+}
+#container nav li{}
+main{}
+#container nav ul{}
+footer{}
+#container footer img {
+}
+#container footer img {
+	margin-left: 80px;
+	margin-bottom: 0px;
+}
+#container aside h2 {
+	padding-left: 24px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	text-decoration: underline;
+}
+#container aside p {
+	padding-left: 13px;
+	padding-right: 13px;
+	font-size: 20px;
+	line-height: 32px;
+	text-align: center;
+	color: #8B0000;
+}
+#container article h1 {
+	color: #FF0001;
+}
+#container main img {
+	padding-left: 0px;
+}
+main p span {
+}
+main p span {
+	margin-left: 0px;
+}
+article ul li {
+    padding-left: 0px;
+    text-align: left;
+    padding-right: 81px;
+    float: right;
+    width: 388px;
+    height: 39px;
+    margin-left: 263px;
+}
+form p {
+	text-align: left;
+}
+form h4 {
+	text-align: left;
+}
+h3 {
+	color: #A63A3A;
+	text-decoration: underline;
+	margin-right: 0px;
+}
+#container article h3 {
+    text-align: center;
+
+}
